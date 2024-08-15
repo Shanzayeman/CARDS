@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+}
+#one{
+    border: 1px solid black;
+    width: 99.8%;
+    height: 581px;
+    background-color: rgb(26, 25, 25);
+}
+#two{
+    border: 1px solid rebeccapurple;
+    width: 600px;
+    height: 450px;
+    background-color: rebeccapurple;
+    margin-top: 70px;
+    margin-left: 300px;
+    box-shadow: 5px 5px 5px 5px rebeccapurple;
+}
+#three{
+    color: white;
+    margin-left: 10px;
+}
+#four{
+    margin-left: 7px;
+}
+#five{
+    border: 1px solid red;
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-radius: 50%;
+    float: right;
+    margin-top:-35px;
+    margin-right: 70px ;
+}
+#six{
+    border: 1px solid rgb(28, 226, 28);
+    width: 15px;
+    height: 15px;
+    background-color:rgb(22, 218, 22);
+    border-radius: 50%;
+    float: right;
+    margin-top:-35px;
+    margin-right: 40px ;
+}
+img{
+    border-radius: 50%;
+    margin-left: 330px;
+    margin-top: 20px;
+}
+audio{
+    width: 450px;
+    margin-left: 75px;
+    margin-top: 30px;
+}
+#last{
+    color: white;
+    position: absolute;
+    top: 220px;
+    margin-left: 20px;
+}
